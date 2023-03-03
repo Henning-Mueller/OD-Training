@@ -1,4 +1,4 @@
-<h1>"# OD-Training" <h1/><br/>
+<h1>"# OD-Training" </h1><br/>
 Original by: https://github.com/nicknochnack/TFODCourse<br/>
 
 Das ist der Modifizierte Code von Nicholas Renotte der für das Training der OD verwendet wurde.<br/>
